@@ -15,6 +15,10 @@ cd Multimodal-Interaction-for-presentation-control
 
 pip install -r requirements.txt
 
+### Link to download the vosk model
+
+https://alphacephei.com/vosk/models/vosk-model-en-in-0.5.zip
+
 ## Usage
 ### Run the main application:
 
